@@ -1,2 +1,3 @@
 # Zadanie_8
 Needs only for practise
+Не понимаю, зачем пишу тут это...
